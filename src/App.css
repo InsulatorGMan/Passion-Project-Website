@@ -1,0 +1,17 @@
+:root {
+
+  --theme-shared-primary: #FD241F;
+  --theme-shared-secondary: #FD572D;
+
+  --theme-dark-primary: #262626;
+  --theme-dark-secondary: #313131;
+  --theme-dark-triatry: #434343;
+  --theme-dark-text: #d2d2d2;
+
+}
+
+Header {
+
+  background-color: var(--theme-dark-triatry);
+
+}
